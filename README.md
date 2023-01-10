@@ -4,8 +4,8 @@ Raining fall has caused disaster in Kinshasa & in Bukavu, cars washed away, hous
 ## Database which is locate at Data folder
 Click this Data folder to view the data that was been used through the workshop 
 ## Pictures from Reports
- ![Image](./WK.jpg)
- ![Image](./WB.jpg)
+ ![My Image](./WK.jpg)
+ ![My Image](./WB.jpg)
  
 
 ## Link for the Dasheboard and reports
