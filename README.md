@@ -3,8 +3,13 @@
 Raining fall has caused disaster in Kinshasa & in Bukavu, cars washed away, houses and road destroyed some people have been lost during that catastrophe. Accross that event we will get an insight of weather data, finding anomalies and how to prevent that situation with artificial intelligence accross Power BI   
 ## Database which is locate at Data folder
 Click this Data folder to view the data that was been used through the workshop 
-## Pictures from Reports
+
+## Kinshasa Weather
  ![My Image](./WK.jpg)
+
+ ##
+ 
+## Bukavu Weather
  ![My Image](./WB.jpg)
  
 
