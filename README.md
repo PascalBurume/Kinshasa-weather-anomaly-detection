@@ -16,5 +16,5 @@ Click this Data folder to view the data that was been used through the workshop
 ## Link for the Dasheboard and reports
 [Weather Analysis ](https://app.powerbi.com/view?r=eyJrIjoiYzcyMmM5MDItNTNhNC00NTIzLWEwYjItYThiMzNkZjMwOTc0IiwidCI6ImQyMzViNDFjLTVlZTktNGM2MC1iY2ZmLWQ2OGZlM2JmZjZhMCIsImMiOjN9)
 ## Slides
- 
-[PowerPoint](Financial%20Sample%20PPT.pptx)
+ You can download the PPT presenattion here 
+[Kinshasa Weather](Kinshasa%Weather.pptx)
